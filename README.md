@@ -1,6 +1,6 @@
 👋🏻 Hi, I’m Olivia!
 
-💡 I’m interested in front-end development and UX/UI design
+💡 I’m interested in front-end development (also, software engineering and UX/UI design)
 
 👩🏻‍💻 I'm currently working on:
 
